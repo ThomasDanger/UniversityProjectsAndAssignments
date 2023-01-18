@@ -1,5 +1,4 @@
 //Thomas Conner
-//tsc200002
 
 //This is a generic binary search tree class
 
