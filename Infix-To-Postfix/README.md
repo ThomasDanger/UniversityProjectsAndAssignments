@@ -1,6 +1,6 @@
 # Infix To Postfix
 
-`LINK TO UNEDITED, ORIGINAL PROJECT (written on a 50 min time crunch) https://github.com/ThomasDanger/InfixToPostfix-unedited`
+LINK TO UNEDITED, ORIGINAL PROJECT (written on a 50 min time crunch): https://github.com/ThomasDanger/InfixToPostfix-unedited
 
 ## Preface/Background 
 This is an expansion of a program originially written by Fatima Khalid and Thomas Conner with the goal of increased performance and better documentation. The original version of this code was written as part of an in-class assignment for a Computer Science II class at the University of Texas at Dallas on October 5, 2022
