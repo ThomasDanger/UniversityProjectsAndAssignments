@@ -1,21 +1,23 @@
-//This is an expansion of a program originially 
-//written by Fatima Khalid and Thomas Conner with
-//the goal of increased performance and better
-//documentation
+/*
+This is an expansion of a program originially 
+written by Fatima Khalid and Thomas Conner with
+the goal of increased performance and better
+documentation
 
-//The original version of this code was written as part
-//of an in-class assignment for a Computer Science II
-//class at the University of Texas at Dallas on October 5, 2022
+The original version of this code was written as part
+of an in-class assignment for a Computer Science II
+class at the University of Texas at Dallas on October 5, 2022
 
-//Link to unedited, original project: 
-//https://github.com/ThomasDanger/InfixToPostfix-unedited
+Link to unedited, original project: 
+https://github.com/ThomasDanger/InfixToPostfix-unedited
 
-//This program utilizes a specialized stack datastructure 
-//to convert an infix expression to a postfix expression
-//In the current build, this will only convert an infix
-//expression to a postfix expression. In the near future, 
-//I hope to create a program that will convert to prefix
-//and evaluate these expressions if requested
+This program utilizes a specialized stack datastructure 
+to convert an infix expression to a postfix expression
+In the current build, this will only convert an infix
+expression to a postfix expression. In the near future, 
+I hope to create a program that will convert to prefix
+and evaluate these expressions if requested
+*/
 
 package com.mycompany.main;
 
