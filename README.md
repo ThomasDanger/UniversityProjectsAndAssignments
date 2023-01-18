@@ -1,4 +1,4 @@
-# UniversityProjectsAndAssignments
+# University Projects And Assignments
 
 Link to repository: https://github.com/ThomasDanger/UniversityProjectsAndAssignments-Private
 
