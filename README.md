@@ -2,7 +2,7 @@
 
 Link to private repository: https://github.com/ThomasDanger/UniversityProjectsAndAssignments-Private
 
-This repository was made to link to the actual repository which is privated to make it harder for current students to cheat using my code.
+This repository was made to link to the actual repository which is privated to make it harder for current students to cheat using my code. To gain access, please contact me via email at thomasconnerse@gmail.com
 
 # NOTICE:
 
