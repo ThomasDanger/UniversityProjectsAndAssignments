@@ -11,3 +11,5 @@ Semester 3
   - In-Class-Assignment 3 - InfixToPostfix
   - Project 3 - AntiDerivatives
   - Project 4 - BaseballStats
+Semester 4
+  - Misc  - DisjointSets
